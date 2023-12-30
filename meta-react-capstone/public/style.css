@@ -1,0 +1,24 @@
+/* styles.css */
+
+/* Apply a Flexbox layout to the root element */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; 
+    margin: 0;
+  }
+  
+  
+  header, nav, main, footer {
+    width: 100%;
+    max-width: 1200px; 
+    margin: 0 auto; 
+  }
+  
+  
+  @media (max-width: 768px) {
+   
+    nav ul {
+      flex-direction: column;
+    }
+  }
