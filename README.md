@@ -9,8 +9,7 @@ Welcome to the Little Lemon Restaurant Reservation Website project! This web app
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
