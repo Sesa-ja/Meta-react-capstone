@@ -40,13 +40,13 @@ npm start
 
 The website will be accessible at http://localhost:3000 by default.
 
-Usage
+## Usage
 Visit the website at https://your-little-lemon-restaurant-url.com.
 Browse available tables and select a desired reservation time.
 Fill in the reservation details and confirm the booking.
 For restaurant staff, log in to the admin dashboard to manage reservations and table status.
 
-Technologies Used
+## Technologies Used
 Frontend: React, HTML, CSS, JavaScript
 Backend: Node.js, Express
 Database: MongoDB
